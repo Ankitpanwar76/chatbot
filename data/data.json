@@ -1,0 +1,51 @@
+{
+    "greetings": {
+        "hi": "Hello!",
+        "hello": "Hi there!",
+        "hey": "Hey! How can I help you?"
+    },
+    "careers": {
+        "teacher": {
+            "description": "A teacher educates students at various levels.",
+            "skills_needed": ["communication", "patience", "creativity"],
+            "average_salary": "$40,000",
+            "course_links": [
+                {"course_name": "B.Ed", "url": "http://www.example.com/bed"}
+            ]
+        },
+        "doctor": {
+            "description": "A doctor diagnoses and treats patients.",
+            "skills_needed": ["medicine", "empathy", "critical thinking"],
+            "average_salary": "$100,000",
+            "course_links": [
+                {"course_name": "MBBS", "url": "http://www.example.com/mbbs"}
+            ]
+        },
+        "software engineer": {
+            "description": "A software engineer designs and develops software applications.",
+            "skills_needed": ["programming", "problem-solving", "communication"],
+            "average_salary": "$80,000",
+            "course_links": [
+                {"course_name": "B.Tech in Computer Science", "url": "http://www.example.com/btech"}
+            ]
+        }
+    },
+    "government_schemes": {
+        "skill_development_schemes": [
+            {
+                "name": "Skill Development Program",
+                "description": "A government initiative to enhance skills of youth.",
+                "eligibility": "Open to all youth aged 18-35.",
+                "website": "http://www.example.com/skill"
+            }
+        ],
+        "uttarakhand_specific_schemes": [
+            {
+                "name": "Uttarakhand Skill Development Scheme",
+                "description": "Skill development schemes specific to Uttarakhand.",
+                "eligibility": "Residents of Uttarakhand.",
+                "website": "http://www.example.com/uttarakhand"
+            }
+        ]
+    }
+}

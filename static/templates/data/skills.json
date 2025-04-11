@@ -1,0 +1,131 @@
+{
+    "greetings": {
+        "hi": "नमस्ते",
+        "hello": "नमस्कार"
+    },
+    "careers": {
+        "software_engineer": {
+            "description": "A Software Engineer designs, develops, and maintains software applications.",
+            "skills_needed": ["Programming languages (e.g., Python, Java, C++)", "Problem-solving", "Software design", "Version control (e.g., Git)"],
+            "average_salary": "₹8,00,000 per year",
+            "course_links": [
+                {"course_name": "Full Stack Web Development", "url": "https://www.coursera.org/specializations/full-stack-mobile-app-development"},
+                {"course_name": "Python for Data Science", "url": "https://www.edx.org/course/python-for-data-science"}
+            ]
+        },
+        "data_scientist": {
+            "description": "A Data Scientist analyzes large sets of data to extract insights and inform decision-making.",
+            "skills_needed": ["Data analysis", "Machine learning", "Programming languages (e.g., Python, R)", "Data visualization"],
+            "average_salary": "₹12,00,000 per year",
+            "course_links": [
+                {"course_name": "Data Science Specialization", "url": "https://www.coursera.org/specializations/jhu-data-science"},
+                {"course_name": "Machine Learning by Stanford University", "url": "https://www.coursera.org/learn/machine-learning"}
+            ]
+        },
+        "teacher": {
+            "description": "A Teacher educates students and helps them develop their knowledge and skills in a particular subject.",
+            "skills_needed": ["Communication", "Patience", "Lesson planning", "Subject knowledge"],
+            "average_salary": "₹4,00,000 per year",
+            "course_links": [
+                {"course_name": "Teaching Certification", "url": "https://www.teachaway.com/courses"},
+                {"course_name": "Classroom Management Techniques", "url": "https://www.coursera.org/learn/classroom-management"}
+            ]
+        },
+        "doctor": {
+            "description": "A Doctor diagnoses and treats medical conditions in patients.",
+            "skills_needed": ["Medical knowledge", "Patient care", "Communication skills", "Critical thinking"],
+            "average_salary": "₹10,00,000 per year",
+            "course_links": [
+                {"course_name": "Medical Courses", "url": "https://www.udemy.com/courses/health-and-medicine/"},
+                {"course_name": "Basic Life Support (BLS) Certification", "url": "https://www.redcross.org/take-a-class/cpr/cpr-courses"}
+            ]
+        },
+        "civil_engineer": {
+            "description": "A Civil Engineer designs, builds, and maintains infrastructure such as roads, bridges, and buildings.",
+            "skills_needed": ["Structural design", "Project management", "Material science", "Surveying"],
+            "average_salary": "₹6,00,000 per year",
+            "course_links": [
+                {"course_name": "Civil Engineering Specialization", "url": "https://www.coursera.org/specializations/civil-engineering"},
+                {"course_name": "Structural Engineering and Design", "url": "https://www.udemy.com/course/structural-engineering"}
+            ]
+        },
+        "nurse": {
+            "description": "A Nurse provides care to patients, assists doctors, and helps in managing medical treatment.",
+            "skills_needed": ["Patient care", "Medical knowledge", "Communication", "Attention to detail"],
+            "average_salary": "₹3,50,000 per year",
+            "course_links": [
+                {"course_name": "Nursing Assistant Course", "url": "https://www.edx.org/course/nursing-assistant"},
+                {"course_name": "Fundamentals of Nursing", "url": "https://www.udemy.com/course/fundamentals-of-nursing"}
+            ]
+        },
+        "graphic_designer": {
+            "description": "A Graphic Designer creates visual content for digital or print media, including websites, advertisements, and branding materials.",
+            "skills_needed": ["Adobe Creative Suite (Photoshop, Illustrator)", "Creativity", "Typography", "UX/UI design"],
+            "average_salary": "₹4,50,000 per year",
+            "course_links": [
+                {"course_name": "Graphic Design Specialization", "url": "https://www.coursera.org/specializations/graphic-design"},
+                {"course_name": "Adobe Photoshop CC for Beginners", "url": "https://www.udemy.com/course/adobe-photoshop-cc-for-beginners"}
+            ]
+        },
+        "digital_marketing_specialist": {
+            "description": "A Digital Marketing Specialist uses online platforms to promote brands and services.",
+            "skills_needed": ["SEO/SEM", "Social media marketing", "Content creation", "Data analysis"],
+            "average_salary": "₹5,50,000 per year",
+            "course_links": [
+                {"course_name": "Digital Marketing Specialization", "url": "https://www.coursera.org/specializations/digital-marketing"},
+                {"course_name": "Google Ads Certification", "url": "https://skillshop.withgoogle.com/partner"}
+            ]
+        },
+        "architect": {
+            "description": "An Architect designs and plans buildings and other structures, focusing on aesthetics, functionality, and sustainability.",
+            "skills_needed": ["Architectural design", "Project management", "Creativity", "Building regulations"],
+            "average_salary": "₹8,00,000 per year",
+            "course_links": [
+                {"course_name": "Architectural Design Specialization", "url": "https://www.coursera.org/specializations/architectural-design"},
+                {"course_name": "Building Information Modeling (BIM)", "url": "https://www.udemy.com/course/bim-for-architecture"}
+            ]
+        },
+        "financial_analyst": {
+            "description": "A Financial Analyst analyzes financial data to provide insights and recommendations to help businesses make investment decisions.",
+            "skills_needed": ["Financial modeling", "Excel", "Data analysis", "Financial reporting"],
+            "average_salary": "₹7,50,000 per year",
+            "course_links": [
+                {"course_name": "Financial Analysis for Business", "url": "https://www.coursera.org/learn/financial-analysis-business"},
+                {"course_name": "Financial Modeling and Valuation", "url": "https://www.udemy.com/course/financial-modeling-valuation"}
+            ]
+        },
+        "content_writer": {
+            "description": "A Content Writer creates written content for websites, blogs, social media, and other digital platforms.",
+            "skills_needed": ["Writing", "SEO", "Creativity", "Research"],
+            "average_salary": "₹4,00,000 per year",
+            "course_links": [
+                {"course_name": "Content Writing Mastery", "url": "https://www.udemy.com/course/content-writing-mastery"},
+                {"course_name": "SEO for Content Writing", "url": "https://www.coursera.org/learn/seo-content-writing"}
+            ]
+        }
+    },
+    "government_schemes": {
+        "skill_development_schemes": [
+            {
+                "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+                "description": "A national scheme aimed at encouraging youth to take up industry-relevant skill training.",
+                "eligibility": "Youth aged between 15-45 years",
+                "website": "https://pmkvyofficial.com",
+                "course_links": [
+                    {"course_name": "Skill Development Programs under PMKVY", "url": "https://pmkvyofficial.com/courses"}
+                ]
+            }
+        ],
+        "uttarakhand_specific_schemes": [
+            {
+                "name": "Uttarakhand Skill Development Mission (UKSDM)",
+                "description": "A state initiative to provide skill development opportunities for youth in Uttarakhand.",
+                "eligibility": "Youth from Uttarakhand",
+                "website": "https://uk.gov.in",
+                "course_links": [
+                    {"course_name": "Skill Development Courses in Uttarakhand", "url": "https://uk.gov.in/skill-courses"}
+                ]
+            }
+        ]
+    }
+}
